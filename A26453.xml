@@ -1,0 +1,670 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to freeholders, and others, concerning the choice of members to serve in Parliament and the qualifications that render a gentleman worthy or underserving so great a trust: with a list of non-associators.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26453</idno>
+            <idno type="STC">Wing A647A</idno>
+            <idno type="STC">ESTC R215659</idno>
+            <idno type="EEBO-CITATION">99827459</idno>
+            <idno type="PROQUEST">99827459</idno>
+            <idno type="VID">31877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1861:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to freeholders, and others, concerning the choice of members to serve in Parliament and the qualifications that render a gentleman worthy or underserving so great a trust: with a list of non-associators.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery, and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Elections --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31877:1"/>
+            <head>Advice to Freeholders, and others, concerning the Choice of Members to ſerve in Parliament, and the Qualifi<g ref="char:EOLhyphen"/>cations that render a Gentleman worthy or undeſerving ſo great a Truſt: With a Liſt of Non-Aſſociators.</head>
+            <p n="1">I. AVoid <hi>all ſuch as hold any Office of con<g ref="char:EOLhyphen"/>ſiderable value during Pleaſure,</hi> they being ſubject to be over-aw'd; for altho a Man wiſh well to his Country, and in the betraying thereof, knows that at the long run he miſchiefs and enſlaves his Poſterity, if not himſelf; yet the narrowneſs of Mens Minds is ſuch, as makes them more ten<g ref="char:EOLhyphen"/>derly apprehend a ſmall <hi>preſent</hi> Damage, than a far greater hereafter. Such Men muſt of neceſſity be under great Tempta<g ref="char:EOLhyphen"/>tions and Diſtraction, when their Con<g ref="char:EOLhyphen"/>ſciences and Intereſt look different ways. For to ſay Truth, ſuch an Office is but a ſofter word for a <hi>Penſion,</hi> therefore ſince theſe Men know before hand the Inconveni<g ref="char:EOLhyphen"/>ences that attend the truſt of a Member of Parliament faithfully diſcharged, 'tis very ſuſpicious and reflecting upon their Honeſ<g ref="char:EOLhyphen"/>ty, if any ſuch ſtand for it; and I think we are bound in Charity, nor can we do them a greater Curtiſy than to anſwer their Petition in the Lord's Prayer. <hi>Not to lead them into Temptation.</hi>
+            </p>
+            <p n="2">II. Suſpect <hi>all theſe</hi> (eſpecially if they are Men of ill Repute) <hi>who in their Profeſ<g ref="char:EOLhyphen"/>ſion, or near Relations, has dependence upon the Court,</hi> for altho to be the King's Ser<g ref="char:EOLhyphen"/>vant is no bar from being a Parliament-Man, or from ſerving his Country honeſtly in that Station, and no doubt ſeveral of them have at diverſe times well diſcharged the ſame, yet frequently ſuch Perſons (un<g ref="char:EOLhyphen"/>worthily) gueſſing at their Prince by them<g ref="char:EOLhyphen"/>ſelves, are apt to vote right or wrong, as they imagin will moſt pleaſe the Preroga<g ref="char:EOLhyphen"/>tive Party and it is a hard matter for a Courtier to pleaſe that great (perhaps cor<g ref="char:EOLhyphen"/>rupt) Miniſter who ſupports him, and thoſe whom he repreſents at the ſame time.</p>
+            <p n="3">III. Meddle not with <hi>ſuch as have been or are like to prove Penſioners,</hi> or receive Sa<g ref="char:EOLhyphen"/>laries for ſecret Services. I know they would now <hi>brazen it out,</hi> that there were no ſuch Men, no ſuch Practices. But the contrary is notorious; did not the Houſe of Commons laſt <hi>Weſtminſter</hi> Parliament take the thing into Examination, nay did not Sir <hi>S.F.</hi> by <hi>his Memory</hi> (without <hi>the Books,</hi> which for ſome reaſons were refuſed to be brought in) name about 30 of them, and the great reſpective <hi>Sums</hi> Yearly paid to each? And would not <hi>many more</hi> have been diſcovered, and the whole knot of them ſeverely and exemplarily puniſhed if that Parliament had a little longer continued? Now there is none more implacably your Enemy than that Perſon whoſe intereſt is to deſtroy you that muſt neither eat nor drink except you Starve; that muſt go in Rags except you go Naked, are taught to fleece you, that they may keep themſelves warm. To prevent this, avoid not only all former Penſioners but ſuch other as may be in dan<g ref="char:EOLhyphen"/>ger to become ſo. Therefore meddle not with Men of neceſſitous Fortunes or much in Debt. The Repreſentative of a Nati<g ref="char:EOLhyphen"/>on ought to conſiſt of the moſt Wiſe, Wealthy, Sober and Couragious of the People, not Men of mean Spirits and lit<g ref="char:EOLhyphen"/>tle Figure, and ſordid Paſſions, that would ſell the Intereſt of the People that chuſe them to advance their own, or be at the beck of ſome great Man in hopes of a Lift to a good Imploy. Thoſe that have <hi>good
+<pb n="2" facs="tcp:31877:2"/>Eſtates</hi> have in a manner given <hi>Hoſtages</hi> to their Country, and muſt be <hi>Errant Fools</hi> before they can play the <hi>Knave</hi> with you. But what cares the <hi>needy Paſſenger</hi> if the <hi>Ship</hi> periſh if he can ſave himſelf in the <hi>long Boat,</hi> or get ſome booty by the <hi>Wreck?</hi> What Protection do you expect from them who cannot ſhew their Faces with confi<g ref="char:EOLhyphen"/>dence, without a Protection, either in or out of Parliaments? Who are no leſs appre<g ref="char:EOLhyphen"/>henſive of a <hi>Bayliff</hi> them of the growing greatneſs of the <hi>French;</hi> and dread not <hi>Popery</hi> half ſo much as an <hi>Outlawry;</hi> will you ſecure them within the Wall of the Houſe of Commons, who were better ſe<g ref="char:EOLhyphen"/>cured within the Walls of a Common Goal; who can never pay their Debts contracted by their Prodigality, but out of your Pur<g ref="char:EOLhyphen"/>ſes, and muſt run you in to get themſelves out of their Mortgages? Theſe Mens Fears of being diſſolved makes them ſubmit to any thing rather then to be left to the un<g ref="char:EOLhyphen"/>merciful Rage of their hungry Creditors, who have ſo long faſted for their Money. For all ſuch Perſons (tho ſome of them may be look'd upon as honeſt, fair condi<g ref="char:EOLhyphen"/>tioned Gentlemen and good Houſe-keeper) are in danger of being tempted to repair the decays of their own private Fortunes by the ruin of the Publick. Moreover the chuſing of ſuch broken Fortunes, decays Trade and ruins whole Families, in ſo much that I have known it drive away many Men (contrary to their own Inclinations) to wiſh never to ſee Parliaments more in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> In a word, if Beggars ever come to be your Repreſentatives, how can they judg what is expedient for the Nation to ſpare whoſe only care is to get a piece of Money to ſpend.</p>
+            <p>Be not over-fond <hi>to receive Bribes and Gratifications</hi> from Perſons that would fain make a prey of you, and by their Purſes, laviſh Treats, and Entertainments would allure you to proſtitute your Voices for their Election; you may be ſure they would never bid ſo high for your Suffrages, but that they know where to make their Mar<g ref="char:EOLhyphen"/>ket. Chooſe the Worthy <hi>unwilling</hi> Perſon before the Complemental unworthy Man, whoſe extraordinary forwardneſs progno<g ref="char:EOLhyphen"/>ſticates he ſeeks not for your Good, but his own ſeparate from the publick. Let us not play the Fools or Knaves, to neglect or be<g ref="char:EOLhyphen"/>tray the common Intereſt of our Country, by a baſe Election: let neither <hi>Fear, Flat<g ref="char:EOLhyphen"/>tery,</hi> nor <hi>Gain</hi> biaſs us. Conſider with your ſelves what Looſers you will be, if to laugh and to be merry one day, the Perſon you chuſe, ſhould give you and your Children occaſion to mourn for ever after. <hi>Say not, he is but a ſingle Perſon, one Man cannot do much hurt.</hi> Silly Man! what if all other Places ſhould be as bad as your ſelves, then all the Houſe would be of a-piece; and be<g ref="char:EOLhyphen"/>ſides, don't you know that ſometimes a <hi>ſingle Man</hi> has carried a <hi>Vote,</hi> which perhaps was no leſs Miſchievous than <hi>Irretrievable!</hi> Think how juſtly the Gallent Ancient Hea<g ref="char:EOLhyphen"/>thens may upbraid this Baſeneſs of us Chri<g ref="char:EOLhyphen"/>ſtians, when as they ſacrificed many of their Children, nay and oftentimes their own Lives for the good of their Country; ſo on the contrary we ſacrifice, or at leaſt <hi>hap-hazard,</hi> both our Religion, Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Children, and Country, for the <hi>Swiniſh</hi> Pleaſure of a Day or two's Debauchery.</p>
+            <p>Let not ſuch Engagements put you upon dangerous Elections as you <hi>love the Liberties</hi> and the Freedom of your Poſterity. But tell them in this Affair they muſt hold you excuſed, for that the weight of the Matter will well bear it, this is your Inheritance, all may depend upon it: 'Tis more <hi>modeſt</hi> Requeſt, if they would deſire you to <hi>give them that Freehold and Eſtate</hi> that qualifies you for an Elector, than to preſs you to be for a Man that in your Conſciences you think not ſit, or not ſo ſit as his Competitor for ſo weighty a Truſt: Men don't uſe to <hi>lend their Wives,</hi> or <hi>give their Children,</hi> to ſatisfy perſonal Kindneſſes, nor ought you to make a <hi>ſwop</hi> of your Birthright (and that of your Poſterity's too) for a Meſs of Pot<g ref="char:EOLhyphen"/>tage, a <hi>Feaſt,</hi> or a luſty <hi>drinking Bout:</hi> There can be no proportion here, and
+<pb n="3" facs="tcp:31877:2"/>therefore none muſt take it ill that you uſe your Freedom about that which in its Con<g ref="char:EOLhyphen"/>ſtitution is the great <hi>Bulwark</hi> of all your An<g ref="char:EOLhyphen"/>cient Liberties.</p>
+            <p>Laſtly, As for you <hi>Citizens, Burgeſſes</hi> and <hi>Freemen,</hi> of Cities and Corporations in par<g ref="char:EOLhyphen"/>cicular, I ſhall only ſay, <hi>That whoſoever is not ſit to be choſen Knight of the Shire, is like<g ref="char:EOLhyphen"/>wiſe unfit to be choſen a Burgeſs:</hi> Neither let the more ſpecious Pretences of any Man that ſhall promiſe to build a <hi>Town Hall,</hi> and <hi>relieve your Poor</hi> with Money, or out of his adjacent Woods, or any ſuch <hi>Good-Morrow's</hi> deceive you; for if ſo, wherein are you wiſer than your <hi>Horſes,</hi> whom you catch every day, and clap a Bridle into their Mouths, only by ſhewing them a few <hi>Oats</hi> which they are never like to eat? Even the very <hi>Mice</hi> are too wiſe to be taken by an <hi>old Bait,</hi> but will have the Trap new baited before they will meddle: And yet I have known a Corporation which has been taken <hi>TWICE</hi> with one Bait. But ſuppoſe theſe Men do really perform what they promiſe, what Compenſation is that, if the ſame Men ſhould lay a good ſwinging Tax upon your Eſtates without any real cauſe or ſhould <hi>give up</hi> the very Power you have of taxing your ſelves for ſending your Repreſenta<g ref="char:EOLhyphen"/>tives in Parliament (for one <hi>bad Parlia<g ref="char:EOLhyphen"/>ment</hi> may ruin us) what good would the Money for <hi>your Poor</hi> do in ſuch a Caſe, more then that when you are reduced to beggary you might perhaps your ſelves (the Gentry of the Country having no reaſon to relieve you) be found to come in for a <hi>ſmall ſhare</hi> of this your Hypocritical Charity an ex<g ref="char:EOLhyphen"/>cellent Reward for Knaviſh Folly. Nei<g ref="char:EOLhyphen"/>ther ſay, Oh! <hi>this is but one Man, and can have but one Vote, he will do our Town a great deal of good, and can do us but little hurt if he would.</hi> And <hi>1ſt</hi> (as I told you before) one or two Voices have ſometimes carried a Vote of great Importance. 2. You know not what miſchief your <hi>bad Example</hi> may do in other Corporations and <hi>if all</hi> ſhould do ſo what a miſerable Caſe would you be in, ſince the Voices of the Boroughs make two thirds of the Houſe; no Man can tell the Influence that <hi>one running Talkative ill Man</hi> may get over the reſt of the Houſe, eſpeci<g ref="char:EOLhyphen"/>ally over thoſe that weigh words more then Senſe, Reaſon, and the Intereſt of the Nation.</p>
+            <p>I ſhall only offer one thing more to your Conſideration, which is, that ſince His Majeſty has in His moſt Gracious Speech wiſely put ſo great a Streſs on the ſigning of the Aſſociation, which ſo firmly united us for our mutual Defence againſt the com<g ref="char:EOLhyphen"/>mon Enemies of our Country; it may not be amiſs to refreſh your Memory with a Copy of that Aſſociation, and a Liſt of thoſe Members of Parliament which refus'd to ſign it: and you will by that gueſs what worthy Patriots they are like to prove, if you once more make them your Repreſen<g ref="char:EOLhyphen"/>tatives.</p>
+            <p>
+               <hi>WHereas there has been a Horrid and Deteſtable Conſpiracy, formed and carried on by Papiſts, and other Wicked and Traiterous Perſons, for Aſſaſſinating His Majeſty's Royal Perſon, in order to incourage an Invaſion from</hi> France, <hi>to ſubvert our Re<g ref="char:EOLhyphen"/>ligion, Laws, and Liberty: We whoſe Names are hereunto Subſcribed, do Heartily, Sincere<g ref="char:EOLhyphen"/>ly and Solemnly Profeſs, Teſtify and Declare, That His Preſent Majeſty, King</hi> William <hi>is Rightful and Lawful King of theſe Realms. And we do mutually promiſe and engage to ſtand by and aſſiſt each other, to the utmoſt of our Power, in the Support and Defence of His Majeſty's moſt Sacred Perſon and Government, againſt the late King</hi> James <hi>and all his Adherents. And in caſe His Majeſty come to any Violent or <g ref="char:V">Ʋ</g>ntimely Death (which God forbid) We do hereby further Freely and <g ref="char:V">Ʋ</g>nanimouſly oblige our ſelves, to <g ref="char:V">Ʋ</g>nite, Aſſociate and Stand by each other, in Revenging the ſame upon his Enemies, and their Adherents; and in Supporting and Defending the Succeſſion of the Crown, according to an Act made in the Firſt Year of the Reign of King</hi> William <hi>and Queen</hi> Mary, <hi>Intituled,</hi> An Act Declaring the Rights and Liberties of the Subject, and ſetling the Succeſſion of the Crown.</p>
+            <pb n="4" facs="tcp:31877:3"/>
+            <p>This Aſſociation being agreed upon by the Houſe, and ordered to be engroſſed to be Signed by the Members, near 400 of that Auguſt Aſſembly, which conſiſts of 513, have already (with great Alacrity) ſubſcribed it. But ſome at preſent heſitate, ſome others refuſe it, their Names you find underwritten:
+<list>
+                  <label>
+                     <hi>Berks.</hi> Sends 9 Members.</label>
+                  <item>
+                     <list>
+                        <item>WIlliam Jennyngs</item>
+                        <item>Simon Harcourt.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Bucks.</hi> 14.</label>
+                  <item>
+                     <list>
+                        <item>Alexander Denton</item>
+                        <item>Mountague Drake</item>
+                        <item>
+                           <hi>Sir</hi> James Etheridge.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Cornwall.</hi> 44.</label>
+                  <item>
+                     <list>
+                        <item>Henry <hi>Lord</hi> Hyde</item>
+                        <item>John Manley</item>
+                        <item>Daniel Eliot</item>
+                        <item>Henry Fleming</item>
+                        <item>Francis Buller</item>
+                        <item>John Tredenham</item>
+                        <item>Seymour Tredenham</item>
+                        <item>
+                           <hi>Sir</hi> William Coryton</item>
+                        <item>John Mountſtevens</item>
+                        <item>Bernard Granvile</item>
+                        <item>Charles <hi>Lord</hi> Cheney</item>
+                        <item>Francis Gwyn.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Cheſhire.</hi> 4.</label>
+                  <item>
+                     <hi>Sir</hi> Thomas Groſvenor.</item>
+                  <label>
+                     <hi>Derbyſhire.</hi> 4.</label>
+                  <item>
+                     <hi>Sir</hi> Gilbert Clarke.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Devon.</hi> 26.</label>
+                  <item>
+                     <list>
+                        <item>Francis Courteney</item>
+                        <item>
+                           <hi>Sir</hi> Edward Seymour</item>
+                        <item>John Granville.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Dorſetſhire.</hi> 20.</label>
+                  <item>
+                     <list>
+                        <item>Thomas Strangways</item>
+                        <item>Thomas Freke</item>
+                        <item>Richard Fownes</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Chor.</hi> 30.</label>
+                  <item>
+                     <list>
+                        <item>Robert Byerly</item>
+                        <item>
+                           <hi>Sir</hi> Marmaduke Wivill</item>
+                        <item>
+                           <hi>Sir</hi> Michael Wentworth.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Eſſex.</hi> 8.</label>
+                  <item>
+                     <hi>Sir</hi> Eliab Harvey.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Gloceſter.</hi> 8.</label>
+                  <item>
+                     <list>
+                        <item>Robert Payne</item>
+                        <item>William Frye</item>
+                        <item>Richard How</item>
+                        <item>John How.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Herefordſhire.</hi> 8.</label>
+                  <item>Robert Price.</item>
+                  <label>
+                     <hi>Huntington.</hi> 4.</label>
+                  <item>Anthony Hammond.</item>
+                  <label>
+                     <hi>Kent.</hi> 18.</label>
+                  <item>
+                     <hi>Sir</hi> John Banks.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Lancaſhire.</hi> 14.</label>
+                  <item>
+                     <list>
+                        <item>Leigh Banks</item>
+                        <item>Thomas Brotherton</item>
+                        <item>
+                           <hi>Sir</hi> Roger Bradſhaw</item>
+                        <item>Peter Shakerley.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Lincolnſhire.</hi> 12.</label>
+                  <item>
+                     <list>
+                        <item>George <hi>Lord</hi> Caſtleton</item>
+                        <item>
+                           <hi>Sir</hi> John Bolles.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Norfolk.</hi> 12.</label>
+                  <item>
+                     <hi>Sir</hi> John Wodehouſe.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Northampton.</hi> 9.</label>
+                  <item>
+                     <list>
+                        <item>Thomas Cartwright</item>
+                        <item>Gilbert Dolben.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Northumberland.</hi> 8.</label>
+                  <item>William Foſter.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Oxford.</hi> 9.</label>
+                  <item>
+                     <list>
+                        <item>Mountague <hi>Lord</hi> Norris</item>
+                        <item>
+                           <hi>Sir</hi> Robert Jenkinſon</item>
+                        <item>Heneage Finch</item>
+                        <item>
+                           <hi>Sir</hi> Edward Norris</item>
+                        <item>Thomas Rowney</item>
+                        <item>James Bertie</item>
+                        <item>
+                           <hi>Sir</hi> Robert Daſhwood.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Salop.</hi> 12.</label>
+                  <item>
+                     <list>
+                        <item>Edward Kynaſton</item>
+                        <item>John Kynaſton</item>
+                        <item>Andrew Newport</item>
+                        <item>George Weld.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Somerſet.</hi> 18.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Sir</hi> John Trevillian</item>
+                        <item>Edward Berkley</item>
+                        <item>John Sandford</item>
+                        <item>
+                           <hi>Sir</hi> Charles Carterett</item>
+                        <item>
+                           <hi>Sir</hi> John Smith.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Southampton.</hi> 26.</label>
+                  <item>
+                     <list>
+                        <item>Henry Holmes</item>
+                        <item>Thomas Done.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Staffordſhire.</hi> 10.</label>
+                  <item>
+                     <list>
+                        <item>Robert Burde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t</item>
+                        <item>
+                           <hi>Sir</hi> John Leveſon Gower</item>
+                        <item>John Grey</item>
+                        <item>
+                           <hi>Sir</hi> Henry Gough.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Surrey.</hi> 14.</label>
+                  <item>John Parſons.</item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Suſſex.</hi> 28.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Sir</hi> William Morley</item>
+                        <item>John Lewknor</item>
+                        <item>
+                           <hi>Sir</hi> Thomas Dyke</item>
+                        <item>William Stringer.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Warwickſhire.</hi> 6.</label>
+                  <item>
+                     <list>
+                        <item>William Bromley</item>
+                        <item>Andrew Archer</item>
+                        <item>George Bohun</item>
+                        <item>
+                           <hi>Lord</hi> Digby</item>
+                        <item>Francis Grevill.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Weſtmoreland.</hi> 4.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Sir</hi> William Twiſden</item>
+                        <item>
+                           <hi>Sir</hi> Chriſtopher Muſgrave.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Wiltſhire.</hi> 34.</label>
+                  <item>
+                     <list>
+                        <item>Robert Bertie</item>
+                        <item>William Harvey</item>
+                        <item>Henry Pynnill</item>
+                        <item>Thomas Bennet</item>
+                        <item>William Daniel.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Worceſterſhire.</hi> 9.</label>
+                  <item>
+                     <list>
+                        <item>Samuel Swiſt</item>
+                        <item>Henry Parker.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>
+                     <hi>Wales.</hi> 24.</label>
+                  <item>
+                     <list>
+                        <item>Edward Jones</item>
+                        <item>Jeffery Jefferies</item>
+                        <item>
+                           <hi>Sir</hi> Richard Middleton</item>
+                        <item>Edward Brereton</item>
+                        <item>
+                           <hi>Sir</hi> John Conway</item>
+                        <item>Thomas Manſel</item>
+                        <item>
+                           <hi>Sir</hi> William Williams.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb n="5" facs="tcp:31877:3"/>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have talked Negatives and di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> are not fit to be choſen; Now we come p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſitively to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t before you, who are fit for ſuch a Truſt, eſpecially in ſuch a dangerous Juncture as we are fallen into. In order to which we muſt conſider for what ends they ſerve, and they are principally two. The firſt is the Preſervation of our Religion from Popery, and the other is to preſerve inviolably our Liberty and Property, according to the known Laws of the Land, without any giving way unto or Intro<g ref="char:EOLhyphen"/>duction of that Abſolute and Arbitrary Rule practiced in Foreign Countries, which we are nei<g ref="char:EOLhyphen"/>ther to imitate or regard.</hi>
+            </p>
+            <p>Therefore take care to chuſe ſuch as are well known to be Men of <hi>good Conſciences fearing God,</hi> throughly principled in the Proteſtant Religion, and of High Reſolution to maintain it with their Lives and For<g ref="char:EOLhyphen"/>tunes. And amongſt theſe, rather caſt your favour upon Men of <hi>large Principles</hi> (I mean in Matters of meer opinion) ſuch as will not ſacrifice their Neighbours Pro<g ref="char:EOLhyphen"/>perty &amp; Civil Rights to the forwardneſs of their own Party in Religion. <hi>Narrow Souls</hi> that will own none but thoſe that bear their own Image and Superſcription, will ſoon<g ref="char:EOLhyphen"/>er raiſe Perſecution <hi>at home</hi> then ſecure us from <hi>Popery</hi> and <hi>Invaſion</hi> from abroad. <hi>The great Intereſt of</hi> England <hi>at this day, is, to tole<g ref="char:EOLhyphen"/>rate the tolerable, to bear with the weak, to en<g ref="char:EOLhyphen"/>courage the Conſcientious, and to reſtrain none but ſuch as would reſtrain all beſides themſelves.</hi>
+            </p>
+            <p n="2">2. As we ought as near as we can poſſi<g ref="char:EOLhyphen"/>bly judg, to Elect <hi>good Proteſtants towards God, and juſt towards Men.</hi> Yet ſince in this corrupt Age wherein we live, Men are not ſo <hi>ſpiritual</hi> as they ought to be, it is not a<g ref="char:EOLhyphen"/>miſs to ſeek for thoſe, whoſe Spiritual In<g ref="char:EOLhyphen"/>tereſt are ſeconded by a <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mporal</hi> one. For tho Men talk high and keep a great noiſe with Conſcience and Love to their Country, yet when you underſtand <hi>Mankind</hi> aright (not as it ſhould be, but as it is, and I fear ever will be) then you will find that pri<g ref="char:EOLhyphen"/>vate Intereſt is the <hi>String</hi> in <hi>the Bears Noſe,</hi> it is that governs the <hi>Beaſt.</hi> And therefore the ſureſt Champions for our Religion <hi>(C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>teris Paribus)</hi> Againſt the Papacy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our <hi>Abby L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded-men,</hi> for notwithſtand<g ref="char:EOLhyphen"/>ing the regiſter'd <hi>Diſpenſation</hi> to King <hi>Henry</hi> the <hi>8th</hi> from the Pope, for the ſeizing of thoſe Moniſtries and Lands, yet of late they pretend the Pope had not power to alien them from the Church; ſo that the preſent Poſſeſſors can never truſt nor rely upon <hi>that,</hi> or any new <hi>Promiſes</hi> or actu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Grants thereof, eſpecially from him whoſe everlaſting and declared Maxim it is — <hi>never to keep Faith with Hereticks.</hi> Undoubt<g ref="char:EOLhyphen"/>edly to make eaſy his Aſſent into the Saddle he will proffer many <hi>Aſſurances</hi> and Grants, but if theſe <hi>Abby Land-men</hi> be not the moſt <hi>ſilly</hi> of all others, they will never believe him for when he is once firmly ſettled, then will he with his <hi>Cannon Law Diſtinction<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> like Fire under Quick-Silver, evaporate a<g ref="char:EOLhyphen"/>way all his Promiſes, and violently reſume the Lands, glorying in his own <hi>Bounty,</hi> if he require not the mean <hi>Profits</hi> ever ſince they have been Sacreligiouſly withheld from Holy Church.</p>
+            <p n="3">3. Endeavour to chuſe Men of <hi>Wiſdom</hi> and <hi>Courage,</hi> who will not be he <hi>hectored</hi> out of their Duties by the Frowns and Scowles of Men: Never had you more need to pitch upon the old <hi>Engliſh</hi> Spirit that durſt be faithful and juſt againſt all Temptations. What a degenerate Race have we known that could never yet reſiſt <hi>Smile</hi> or <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> but tamely ſunk below their own Conuic<g ref="char:EOLhyphen"/>tions and knew the evil they did yet durſt not but commit it.</p>
+            <p n="4">4. Make it your buſineſs to chuſe ſuch as are reſolved to ſtand by and maintain the <hi>Power and Priviledges of Parliaments</hi> (for they are the Heart-Strings of the Common-wealth) together with the Power and Juſt Rights of the King, according to the Laws of the Kingdomſo as the one may not entrench upon the other: And ſuch as with a becoming true <hi>Engliſh Courage</hi> will proſecute all Traitors whether already impeach'd or to be impeach'd; and to ſe<g ref="char:EOLhyphen"/>cure us from Popery hereafter, and to get removed all <hi>Corrupt and Arbitrary Miniſters
+<pb n="6" facs="tcp:31877:4"/>of State</hi> and <hi>wicked Judges,</hi> and all <hi>Stiflers</hi> of the Diſcovery of the late accurſed Conſpiracy againſt His Majeſties Life, and <hi>Su<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mers,</hi> and Vile Pamphleteers, that en<g ref="char:EOLhyphen"/>deavour ſo induſtriouſly to clear the Papiſts and expoſe the Proteſtant Religion and poiſon the People.</p>
+            <p>Laſtly, Take particular notice of thoſe who are <hi>Men of Induſtry and Improvement;</hi> for ſuch as are Ingenious and Laborious to propagate the growth and advantage of their Country will be very tender of yield<g ref="char:EOLhyphen"/>ing to any thing that will weaken or im<g ref="char:EOLhyphen"/>poveriſh it.</p>
+            <p>If you conduct your ſelves thus prudent<g ref="char:EOLhyphen"/>ly, honeſtly and gallantly in your <hi>Choice,</hi> without putting the Gentleman whom you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>huſe to ſerve you, to Charges: The Con<g ref="char:EOLhyphen"/>ſequence will be, that as you will be ſure to have a <hi>good Parliament</hi> when ever His Majeſty ſhall pleaſe to call one, and ſuch as will be zealous for the Proteſtant Reli<g ref="char:EOLhyphen"/>gion and Proſperity of the Nation, if they ſhall continue <hi>to ſit and act;</hi> ſo on the o<g ref="char:EOLhyphen"/>ther ſide, if they ſhall be <hi>diſſolved</hi> and never ſo many new Parliaments call'd, yet you run no hazard for the ſame <hi>Canditates</hi> will be ſtill ready to ſerve you: And ſo we ſhall conclude our diſcourſe of Parliaments when I ſhall firſt have obſerved that anciently all <hi>Freemen of England</hi> (tho not <hi>Freeholders</hi>) had a Right to chuſe their Repreſentatives to the ſame, was alter'd and limited by the following Statute, for the Reaſons therein mentioned.</p>
+            <div type="part">
+               <head>The Statute <hi>Anno 8 Hen. 6. Cap. 7.</hi> What ſort of Men ſhall be Cqoſers, and who ſhall be choſen Knights of the Parliament.</head>
+               <p>
+                  <hi>Item. WHereas the Elections of Knights of Shires to come to the Parliament of our Lord the King in many Counties of the Realm of</hi> England, <hi>have now of late been made with very great outragious and</hi> exceſſive Num<g ref="char:EOLhyphen"/>bers <hi>of People dwelling within the ſame Counties of the Realm of</hi> England, <hi>of the which moſt was of People of</hi> ſmall Subſtance, <hi>and of no value, whereof</hi> every one <hi>of them pretend a Voice equivolent as to ſuch Elections to be made with the moſt Worthy Knights and Eſquires dwelling within the ſame Counties, whereby Manſlaugh<g ref="char:EOLhyphen"/>ters, Riots, Batteries and Diviſion among the Gentlemen and other People</hi> of the ſame Coun<g ref="char:EOLhyphen"/>ties ſhall very likely riſe and be, unleſs convenient and due remedy be provided, in this behalf. 2. Our Lord the King con<g ref="char:EOLhyphen"/>ſidering the Premiſſes hath provided or<g ref="char:EOLhyphen"/>dained and eſtabliſhed by Authority of this preſent Parliament, that the Knights of the Shires to be choſen within the ſaid Realm of <hi>England</hi> to come to the Parlia<g ref="char:EOLhyphen"/>ment of our Lord the King hereafter to be choſen, ſhall be choſen in every County of of the Realm of <hi>England</hi> by People dwel<g ref="char:EOLhyphen"/>ling and reſident in the ſaid Counties, where<g ref="char:EOLhyphen"/>of every one of them ſhall have Land or Tenement to the value of 40 <hi>s.</hi> by the Year at the leaſt above all Charges. 3. And that they which ſhall be ſo choſen ſhall be dwelling and reſident within the ſame Counties. 4. And ſuch as have the greateſt number of them that may expend 40 <hi>s.</hi> by the Year, and above, as afore is ſaid, ſhall be returned by the Sheriffs of every County, Knights for Parliament, by Indentures, ſealed betwixt the ſaid Sheriffs and the ſaid Chuſers to be made. 5. And every Sheriff of the Realm of <hi>England</hi> ſhall have power by the ſaid Authority to examin upon the Evangeliſt every ſuch Chuſer, how much he may expend by the Year. 6. And if any Sheriff returned Knights to come to the Parliament, contrary to the ſaid Ordi<g ref="char:EOLhyphen"/>nance, the Judges of <hi>Aſſize</hi> in their Seſſions of <hi>Aſſizes</hi> ſhall have power by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid thereof to enquire. 7. And if any Inqueſt the ſame be found before the Juſtices, and the Sheriff thereof be duly attainted, that then the ſaid Sheriff ſhall in<g ref="char:EOLhyphen"/>cur
+<pb n="7" facs="tcp:31877:4"/>the Pain of 100 <hi>l.</hi> to be paid to our Lord the King, and alſo that he have Im<g ref="char:EOLhyphen"/>priſonment by a Year, without being let to Main Prize or Bail. 8. And that the Knights of the Parliament returned contra<g ref="char:EOLhyphen"/>ry to the ſaid Ordinance ſhall looſe their Wages.</p>
+               <p>Provided always that he which cannot expend 40 <hi>s.</hi> by the Year, as aforeſaid, ſhall in no wiſe be Chuſer of Knights for the Parliament. 2. And that in every Writ that ſhall hereafter go forth to the Sheriffs to chuſe Knights for the Parliament, men<g ref="char:EOLhyphen"/>tion be made of the ſaid Ordinance.</p>
+               <p>Note, Tho this Statute make the Penal<g ref="char:EOLhyphen"/>ty on the Sheriff but 100 <hi>l.</hi> for a falſe return, yet the Houſe may further puniſh him by Impriſonment, <hi>&amp;c.</hi> at their Pleaſure, by the Law and Cuſtom of Parliaments.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Anno 4. Ed. 3. Cap. 14.</hi> A Parliament ſhall be holden once every Year.</head>
+               <p>
+                  <hi>Item.</hi> It is accorded that a Parliament ſhall be holden every Year once, and more often if need be.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Anno 26. Ed. 3. Cap. 10.</hi> A Parliament ſhall be holden once in the Year.</head>
+               <p>
+                  <hi>Item.</hi> For Maintenance of the ſaid Articles and Statutes, and redreſs of divers Miſ<g ref="char:EOLhyphen"/>chiefs and Grievances which yearly happen, a Parliament ſhall be holden every Year, as another time was ordered by Statute.</p>
+               <p>BEfore the Conqueſt (as the Victory of Duke <hi>William</hi> of <hi>Normandy</hi> over <hi>Harold</hi> the Uſurper, is commonly tho very impro<g ref="char:EOLhyphen"/>perly called) Parliaments were to be held twice every Year, as appears by the Laws of King <hi>Edgar, Cap.</hi> 5. and the Teſtimony of the <hi>Mirror of Juſtices Cap.</hi> 1. <hi>Sect.</hi> 3. For the Eſtates of the Realm K. <hi>Alfred</hi> cauſes the Committees (ſome Engliſh Tranſlations of that ancient Book read, Earls, but the word ſeems rather to ſignify Commiſſio<g ref="char:EOLhyphen"/>ners, Truſtees, or Repreſentatives) to meet, and ordain a Perpetual Uſage, that twice in the Year, or oftner, if need were, in time of Peace, they ſhould aſſemble at <hi>London,</hi> to ſpeak their Minds for the guid<g ref="char:EOLhyphen"/>ing of the People of God, how they ſhould keep themſelves from Offences, live in quiet, and have right done them by certain Uſages and ſound Judgments. K. <hi>Edw.</hi> the Firſt (ſays <hi>Cook,</hi> 4. <hi>Inſt. fol.</hi> 97.) kept a Parlia<g ref="char:EOLhyphen"/>ment once every two years for the moſt part. And now in this K. <hi>Edw.</hi> the Thirds time one of the moſt Wiſe and moſt Glo<g ref="char:EOLhyphen"/>rious of all our Kings, it was thought fit to enact by theſe two ſeveral Statutes that a Parliament ſhould be held once at leaſt e<g ref="char:EOLhyphen"/>very Year, which two Statutes are to this Day in full Force. For they are not re<g ref="char:EOLhyphen"/>pealed, but rather confirmed by the Sta<g ref="char:EOLhyphen"/>tute made in the <hi>16th</hi> Year of our late Sove<g ref="char:EOLhyphen"/>reign King <hi>Charles</hi> the Second <hi>Chap.</hi> 1. In<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the aſſembling and holding of Parliaments once in three Years at the leaſt;</hi> the words of which are as follow.</p>
+               <p>
+                  <q>Becauſe by the Ancient Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm, made in the Reign of King <hi>Edw.</hi> the Third, Parliaments are to be held very often, Your Majeſties Hum<g ref="char:EOLhyphen"/>ble and Loyal Subjects, the Lords Spiritu<g ref="char:EOLhyphen"/>al and Temporal, and the Commons in the Preſent Parliament aſſembled, moſt humbly do beſeech Your Majeſty, that it may be declared and enaſted by the Au<g ref="char:EOLhyphen"/>thority
+<pb n="8" facs="tcp:31877:5"/>aforeſaid, that hereafter, the ſit<g ref="char:EOLhyphen"/>ting and holding of Parliaments ſhall not be intermitted or diſcontinued above three Years at the moſt; but that within three Years from and after the determination of this preſent Parliament, ſo from time to time, within 3 Years after the determi<g ref="char:EOLhyphen"/>nation of any other Parliament, or Parlia<g ref="char:EOLhyphen"/>ments, or if there be occaſion, more or oft<g ref="char:EOLhyphen"/>ner, your Majeſty, your Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, do iſſue out your Writs for calling, aſſembling and holding of another Parlia<g ref="char:EOLhyphen"/>ment, to the end there may be a frequent calling, aſſembling and holding of Par<g ref="char:EOLhyphen"/>liaments once in three Years at the leaſt.</q>
+               </p>
+               <p>By what has been ſaid, you may percieve the work of an Engliſh Parliament is not (as ſome would have it) only to be Keys to unlock the Peoples Purſes. That is but one part, and perhaps one of the leaſt parts too, of their Office; they are to propoſe new Laws that are wanting for general Good, and to preſs the Abrogation of Laws in being, when the Execution of 'em is found prejudicial or dangerous to the pub<g ref="char:EOLhyphen"/>lick, they are to provide for Religion, and the Safety and the Honour of the Nation, they have a Power (as you have heard from Sir <hi>Tho. Smith</hi>) to order the Right to the Crown (underſtand all this with the King's Conſent) and they have very frequently un<g ref="char:EOLhyphen"/>dertaken and actually limited the ſame, con<g ref="char:EOLhyphen"/>trary to and different from the Common Line of Succeſſion. Nay by the Statute of 13 <hi>Eliz. Cap.</hi> 13. It is expreſly enacted, <q>That if any Perſon ſhall in any wiſe hold and affirm, or maintain, that the Queen with and by the Parliament of <hi>England,</hi> is not able to make Laws and Statutes of ſufficient Force and Validity to limit and bind the Crown of this Realm, and the Deſcent, Linitation, Inheritance and Government thereof or any other Statute to be made by the Authority of the Parli<g ref="char:EOLhyphen"/>ament of <hi>England,</hi> with the Royal Aſcent for limiting the Crown, is not, are not, or ſhall not, or ought not to be for ever good and ſufficient Force and Validity to bind, limit, reſt rain and govern all Perſons, their Rights and Titles, that in any wiſe may or might claim any Intereſt or poſſibility in or to the Crown of <hi>England</hi> in Poſſeſſion, Remainder, Inheritance, Succeſſion or otherwiſe howſoever; and all other Per<g ref="char:EOLhyphen"/>ſons whatſoever, every Perſon ſo holding, affirming or maintaining during the Life of the Queen, ſhall be adjudged an high Traytor, and ſuffer and forfeit as in Ca<g ref="char:EOLhyphen"/>ſes of high Treaſon is accuſtomed. And every Perſon ſo holding, affirming or maintaining, after the Deceaſe of our ſaid Soveraign Lady ſhall forfeit all his Goods and Chattels.</q>
+               </p>
+               <p>Which Clauſe and laſt mentioned Penal<g ref="char:EOLhyphen"/>ty is to this Day in Force, and ought to be conſidered by any who ſhall now pretend that an Act of Parliament cannot diſpoſe of the Succeſſion.</p>
+               <p>But nothing is more properly the work of a Parliament then to redreſs Grievances, to take notice of Monopolies and Oppreſ<g ref="char:EOLhyphen"/>ſions, to curb the Exorbitances of perni<g ref="char:EOLhyphen"/>cious Favourites and ill Miniſters of State, to puniſh mighty Delinquents as look upon themſelves too big for the ordinary reach of Juſtice, to inſpect the Conduct of ſuch as are intruſted with Adminiſtration of the Laws, or diſpoſe of the Publick Treaſure of the Nation. All Crimes of theſe and and the like kinds are publick Nuſances, common Miſchiefs, and wound the whole Body Politick in a vital part, and can ſcarce at all times be found out or redreſſed (by reaſon of the Power and Influence of the Offenders) but in this great and awful Se<g ref="char:EOLhyphen"/>nate, before whom the haughtieſt Crimi<g ref="char:EOLhyphen"/>nals tremble, and it has been obſerved that they ſcarce ever perſecuted any tho never ſo great or highly in Favour at Court, but ſooner or latter they hit him, and it proved his ruin. Take a few Examples, King <hi>Edw.</hi> II. dotes upon <hi>Piece Graveſtone</hi> (a French Gentleman) he waſts the King's Trea<g ref="char:EOLhyphen"/>ſures, has undeſerved Honour conferred on him, affronts the ancient Nobility; the Par<g ref="char:EOLhyphen"/>liament in the beginning of the King's <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:31877:6"/>Reign complain of him, he is baniſhed into <hi>Ireland,</hi> the King afterwards calls him home, and marries him to the Earl of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi>'s Siſter. The Lords complain again ſo effectually that the King not only con<g ref="char:EOLhyphen"/>ſents to his ſecond Baniſhment, but that if ever he returned or were found in the Kingdom he ſhould be held and proceeded againſt as an Enemy to the State, yet back he comes and is receiv'd once more by the King as an Angel, who carries him with him into the <hi>North,</hi> and hearing the Lords were in Arms to bring the ſaid <hi>Graveſtone</hi> to Ju<g ref="char:EOLhyphen"/>tice plants him for ſafety in <hi>Scarborrough-Caſtle,</hi> which being taken, his Head was chopt off.</p>
+               <p>In K. <hi>Richard</hi> the <hi>2d</hi>'s time, moſt of the Judges of <hi>England</hi> to gratify certain Cor<g ref="char:EOLhyphen"/>rupt and Pernicious Favourites about the King, being ſent for to <hi>Nottingham,</hi> were by Perſwaſions and Menaces prevailed with to give falſe and illegal Reſolutions to cer<g ref="char:EOLhyphen"/>tain Queſtions propoſed to them, declaring certain Matters to be Treaſon which in truth were not ſo; for which in the next Parliament they were called to account and attainted, and Sir <hi>Robert Treſilian,</hi> Lord Chief Juſtice of <hi>England</hi> was drawn from the <hi>Tower,</hi> through <hi>London,</hi> to <hi>Tyburn,</hi> and there hang'd; as likewiſe was <hi>Blake</hi> one of the King's Council, and <hi>
+                     <g ref="char:V">Ʋ</g>ske</hi> the Under<g ref="char:EOLhyphen"/>ſheriff of <hi>Middleſex,</hi> who was to pack a Jury to ſerve the preſent turn againſt cer<g ref="char:EOLhyphen"/>tain innocent Lords and others whom they intended to have had taken off; and five more of the Judges were baniſhed and their Goods forfeited. And the Arch-Biſhop of <hi>York,</hi> the Duke of <hi>Ireland,</hi> and the Earl of <hi>Suffolk</hi> three of the King's evil Councillors were forced to fly, and die miſerable Fuga<g ref="char:EOLhyphen"/>tives in Foreign Parts.</p>
+               <p>In the beginning of King <hi>Henry</hi> the <hi>8th</hi>'s Reign, Sir <hi>Richard Empſom,</hi> Kt. <hi>Edmond Dudley,</hi> one of the Barons of the Exche<g ref="char:EOLhyphen"/>quer, having by colour of an Act of Par<g ref="char:EOLhyphen"/>liament to try People for ſeveral Offences without Juries, committed great Oppreſ<g ref="char:EOLhyphen"/>ſions, were proceeded againſt in Parlia<g ref="char:EOLhyphen"/>ment and loſt their Heads.</p>
+               <p>In the <hi>19th</hi> Year of King <hi>James</hi>'s Reign, at a Parliament holden at <hi>Weſtminſter,</hi> there were ſhewn (ſaith <hi>Baker</hi>'s <hi>Chron. Fol.</hi> 418.) two great Examples of Juſtice, which for future Terrour are not unfit to be here re<g ref="char:EOLhyphen"/>lated; one upon Sir <hi>Giles Mompeſſon,</hi> a Gentleman otherwiſe of good parts; but for practiſing ſundry Abuſes in erecting and ſetting up new Inns and Ale-houſes, and exacting great Sums of Money of Peo<g ref="char:EOLhyphen"/>ple, by pretence of Letter Pattents grant<g ref="char:EOLhyphen"/>ed to him for that purpoſe, was ſentenced to be degraded from his Knight-hood, and diſabled to bear any Office in the Common<g ref="char:EOLhyphen"/>wealth; tho he avoided the Execution by flying the Land. But upon Sir <hi>Francis Mitchel,</hi> a Juſtice of Peace in <hi>Middleſex</hi> and one of the chiefeſt Agents, the Sentence of Degradation was executed, and he made to ride with his Face to the Horſes Tail thro the City of <hi>London.</hi> The other Example was one Sir <hi>Fran. Bacon,</hi> Viſcount St. <hi>Al<g ref="char:EOLhyphen"/>bons,</hi> Lord <hi>Chancellour</hi> of <hi>England,</hi> who for Bribery was put from his place and commit<g ref="char:EOLhyphen"/>to the <hi>Tower.</hi>
+               </p>
+               <p>In King <hi>Charles</hi> the Firſt time, moſt of the Judges that had given Opinions contra<g ref="char:EOLhyphen"/>ry to Law in the caſe of Ship-money were called to account and forced to fly for the ſame: And in the <hi>19th</hi> Year of K. <hi>Charles</hi> the Second, the Earl of <hi>Clarenden,</hi> Lord <hi>Chancellour</hi> of <hi>England,</hi> being queſtioned in Parliament and retiring thereupon beyond the Seas, was by a ſpecial Act baniſhed and diſabled. In a word, it was well and wiſe<g ref="char:EOLhyphen"/>ly ſaid of that Excellent Stateſman Sir <hi>William Cecil,</hi> Lord <hi>Burleigh,</hi> and High Treaſurer of <hi>England,</hi> that he knew not what an Act of Parliament might not do: Which Apothegm was approved by King <hi>James</hi> and alledged (as I remember) in one of his publiſhed Speeches.</p>
+               <p>I ſhall give a few Inſtances, beſides thoſe before mentioned, of what the Houſe of Commons hath done in former Ages.</p>
+               <p n="1">1. <hi>Anno.</hi> 20. <hi>Jacobi,</hi> Dr. <hi>Harris</hi> Mini<g ref="char:EOLhyphen"/>ſter of <hi>Beechingly,</hi> in <hi>Surry,</hi> for misbeha<g ref="char:EOLhyphen"/>ving himſelf by Preaching, and otherwiſe about Election of Members of Parliament
+<pb n="10" facs="tcp:31877:7"/>upon complaint was called to the Bar of the Houſe of Commons, and there as a De<g ref="char:EOLhyphen"/>linquent on his Knees, had Judgment to confeſs his Fault there, and in the Coun<g ref="char:EOLhyphen"/>try, in the Pulpit of his Pariſh-Church on Sunday before Sermon.</p>
+               <p n="2">2. <hi>Anno.</hi> 21. <hi>Jacobi, Ingrey,</hi> Under-She<g ref="char:EOLhyphen"/>riff of <hi>Cambridg-ſhire,</hi> refuſing the Pole, up<g ref="char:EOLhyphen"/>on the promiſe of Sir <hi>Tho. Steward</hi> to de<g ref="char:EOLhyphen"/>fend him therein, kneeling at the Bar, re<g ref="char:EOLhyphen"/>ceiv'd his Judgment to ſtand committed to the Serjeant at Arms, and to make Submiſſion at the Bar, and acknowledg his Offence there, and to make a further Submiſſion o<g ref="char:EOLhyphen"/>penly at the Quarter Seſſions and there alſo to acknowledg his Fault.</p>
+               <p n="3">3. <hi>Anno</hi> 22. <hi>Jacobi,</hi> the Mayor of <hi>Arundel,</hi> for misbehaving himſelf in an Election by putting the Town to a great deal of charge, not giving a due and general warning, but packing a number of Electors, was ſent for by Warrant, and after order'd to pay all the Charges, and the Houſe appointed cer<g ref="char:EOLhyphen"/>tain Perſons to adjuſt the Charges.</p>
+               <p n="4">4. <hi>Anno</hi> 3. <hi>Car.</hi> 1. Sir <hi>Williaw Wray,</hi> and others deputed Lieutenants of <hi>Cornwal,</hi> for aſſuming to themſelves a Power to make whom they pleaſed Knights and defaming thoſe Gentlemen that then ſtood to be choſen, ſending up and down the Country Letters for the Trained-Bands to appear at the Day of Election, and Menacing the Country under the Title of his Majeſties Pleaſure, had Judgment given upon 'em, to be committed to the Tower. 2. To make Recognition of their Offence at the Bar of of the Houſe upon their Knees, which was done. 3. To make a Recognition and Sub<g ref="char:EOLhyphen"/>miſſion at the Aſſizes in <hi>Cornwal</hi> in a Form drawn by a Committee.</p>
+               <p n="5">5. But moſt remarkable were the Pro<g ref="char:EOLhyphen"/>ceedings in the ſame Parliament. <hi>Anno.</hi> 1628, againſt Dr. <hi>Manwaring,</hi> who being there charged with Preaching and Publiſh<g ref="char:EOLhyphen"/>ing offenſive Sermons, and the ſame being referred to a Committee, they brought in their Reports, which was delivered to the Houſe with this Speech, as I find in Dr. <hi>Fuller</hi>'s <hi>Church-Hiſtory, L.</hi> 11. <hi>Fol.</hi> 129.</p>
+               <p>Mr. Speaker,</p>
+               <p>
+                  <q>I am to deliver from the Sub-Commit<g ref="char:EOLhyphen"/>tee a Charge againſt Mr. <hi>Manwaring,</hi> a Preacher and Dr. of Divinity, but a Man ſo Criminous that he hath turned his Ti<g ref="char:EOLhyphen"/>tles into Accuſations, for the better they are, the worſe is he, that hath diſhonour<g ref="char:EOLhyphen"/>ed 'em, here is a great Charge that lies upon him, it is great in it its ſelf, and great becauſe it hath many great Charges in it: <hi>Serpens qui ſerpentem Dovorat fit Draco;</hi> his Charge having digeſted many Charges into it, is become a Monſter of Charges. The main and great one, is this, a Plot and a Policy to alter and ſubvert the Frame and Fabrick of this State and Common-wealth. This is the great one, and it hath others in it, that gains it more Greatneſs. For to this end he labours to infuſe into the Conſcience of His Majeſty the perſwaſion of a Pow<g ref="char:EOLhyphen"/>er not bounding it ſelf with Laws, which King <hi>James</hi> of Famous Memory calls in his Speech in Parliament, 1618. <hi>Tyran<g ref="char:EOLhyphen"/>ny, yea Tyranny accompanied with Perjury.</hi>
+                  </q>
+               </p>
+               <p n="2">2. He endeavours to perſwade the Con<g ref="char:EOLhyphen"/>ſciences of the Subjects that they are bound to obey illegal Commands; yea, he damns them for not obeying 'em.</p>
+               <p n="3">3. He robs the Subjects of the property of their Goods.</p>
+               <p n="4">4. He brands 'em that will not looſe their property with moſt ſcandalous and odious Titles, to make 'em hateful both to Prince People, ſo to ſet a diviſion between Head and Members, and between the Members themſelves.</p>
+               <p>To this end (not much unlike <hi>Faux</hi> and his Fellows) he ſeeks to blow up Parliaments and Parliamentary Power. Therefore be<g ref="char:EOLhyphen"/>ing duly viewed, will make up the main and great Charge a Miſchievious Plot to al<g ref="char:EOLhyphen"/>ter and ſubvert the Frame and Government of this State and Common-wealth. And now that you may beſure that Mr. <hi>Man<g ref="char:EOLhyphen"/>waring,</hi> tho he leave us no Property in our Goods, yet he hath an abſolute Propriety in his Charge: <hi>Audite ipſam belluam,</hi> here Mr. <hi>Manwaring</hi> by his own words making up his own Charge.</p>
+               <pb n="11" facs="tcp:31877:7"/>
+               <p>Here he produced the Books particularly inſiſting on <hi>P.</hi> 19, 29, and 30. in the firſt Sermon. <hi>P.</hi> 35, 46, and 47. in the ſecond Sermon. All which Paſſages he hightened with much Elequence and Acrimony; thus concluding his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. I have ſhewed you an Evil Tree, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> forth evil Fruit,</hi> and now it reſts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you to determin whether the follo<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall follow, <hi>Cut it down and caſt it into the Fire.</hi> Four Days after the Parliament proceeded to his Cenſure, conſiſting of eight particulars, it being or<g ref="char:EOLhyphen"/>der'd by the Houſe of Lords againſt him as followeth.</p>
+               <list>
+                  <item>1. To be Impriſoned during the Pleaſure of the Houſe.</item>
+                  <item>2. To be Fined a Thouſand Pounds.</item>
+                  <item>3. To make his Submiſſion at the Bar of this Houſe, and in the Houſe of Commons at the Bar there, <hi>in verbis conceptis,</hi> a ſet Form of Words framed by a Committee of this Houſe.</item>
+                  <item>4. To be Suſpended from his Miniſterial Function three Years, and in the mean time a ſufficient Preaching-Man to be provided out of the profits of his Living, and this to be left to be performed by the Eccleſiaſtical Court.</item>
+                  <item>5. To be Diſabled for ever hereafter from Preaching at Court.</item>
+                  <item>6. To be for ever Diſabled of having any Eccleſiaſtical Dignity in the Church of <hi>England.</hi>
+                  </item>
+                  <item>7. To be uncapable of any Secular Of<g ref="char:EOLhyphen"/>fice or Preferment.</item>
+                  <item>8. That his Books are worthy to be burnt, and that His Majeſty to be moved that it may be to in <hi>London,</hi> and both the Univerſities.</item>
+               </list>
+               <p>And accordingly he made his humble Submiſſion at both the Bars in Parliament, on the <hi>23d</hi> of <hi>June</hi> following, and on his Knees before both Houſes, ſubmitted him<g ref="char:EOLhyphen"/>ſelf, with outward Expreſſions of Sorrow as followeth.</p>
+               <p>
+                  <q>I do here in all Sorrow of Heart and true Repentance acknowledg theſe many Errors and Indiſcretions, which I have committed in Preaching and Publiſhing the two Sermons of mine, which I called <hi>Religi<g ref="char:EOLhyphen"/>on</hi> and <hi>Allegiance,</hi> and my great Fault in falling upon this Theam again, and hand<g ref="char:EOLhyphen"/>ling the ſame raſhly, ſcandalouſly and un<g ref="char:EOLhyphen"/>adviſedly in my own Pariſh-Church, in St. <hi>Giles</hi>'s in the <hi>Fields,</hi> the <hi>4th</hi> of <hi>May</hi> laſt paſt. I humbly acknowledg theſe three Sermons to have been full of dangerous Paſſages and Inferences, and Scandalous Aſperſions, in moſt part of them; and I do humbly acknowledg the juſt Proceed<g ref="char:EOLhyphen"/>ings of this Honourable Houſe againſt me, and the juſt Sentence and Judgment paſſed upon me for my great Offence: And I do from the bottom of my Heart crave Par<g ref="char:EOLhyphen"/>don of God, the King, and this Honou<g ref="char:EOLhyphen"/>rable Houſe, and the Common-wealth in general, and thoſe worthy Perſons ad<g ref="char:EOLhyphen"/>judged to be reflected on by me in parti<g ref="char:EOLhyphen"/>cular, for theſe great Offences and Errors.</q>
+               </p>
+               <p>It is therefore the indiſpenſible Intereſt and Duty of all true Engliſh-men to main<g ref="char:EOLhyphen"/>tain theſe Priviledges conveyed from their Anceſtors through ſo many Generations inviolable, upon which all our Earthly (and in a great meaſure our Spiritual) Happineſs, Safety, and Well-being de<g ref="char:EOLhyphen"/>pends. Nor can any Man in his Senſes but acknowledg that the only right way to at<g ref="char:EOLhyphen"/>tain that End is to look well to the Means, and that is by taking due care what Per<g ref="char:EOLhyphen"/>ſons they chuſe for their Repreſentatives, with whom they muſt truſt their <hi>Eſtates, Lives,</hi> and <hi>Liberties.</hi>
+               </p>
+               <p>Now the Government of a Prince by and with Parliaments, when ever the condition and neceſſities of the State require 'em, how<g ref="char:EOLhyphen"/>ever according to its Primitive Inſtitution it was the beſt of all others: Yet as well in that as in Chriſtianity it ſelf, there hath been ſound out ways of Corruption, and that is when either they ſit too long, or too ſeldom, or are too frequently diſſolv<g ref="char:EOLhyphen"/>ed: (Too frequent Diſſolutions being no leſs dangerous to the Subject, than too long Seſſions) nevertheleſs, it may be in the Electors Power to avoid the Inconve<g ref="char:EOLhyphen"/>niences (of both, and that is) by making a good choice.</p>
+               <pb n="12" facs="tcp:31877:8" rendition="simple:additions"/>
+               <p>Whereas if the Country People will ſell <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll that they have for a little Boaſt Beef, a Glaſs of Sack, and a Pot of Ale, choſing him that will give them moſt drink to day, tho they know him to be a Perſon who will ſell both their Religion, Liberties and For<g ref="char:EOLhyphen"/>tunes to Morrow: Then frequent Diſſolu<g ref="char:EOLhyphen"/>tions we may expect, which are as dange<g ref="char:EOLhyphen"/>rous to the Subject as too long Seſſions, which will of neceſſity ruin us and utterly debauch this excellent Conſtitution: For the honeſt Country Gentleman deſigns no other private advantage but the true Ser<g ref="char:EOLhyphen"/>vice of his King and Country; hath no reaſon nor is lie able once in half a year to ſpend 4 or 500 pounds, only to purchaſe a place full of Labour, Charge, Trouble and Danger, without any profit to himſelf, only to ſerve thoſe who put him to ſuch an unkind Expence. And when honeſt Loyal Gentlemen are thus diſcouraged, this ſot<g ref="char:EOLhyphen"/>tiſh Humour amongſt the Electors continue, the Papiſts and their Faction, or neceſſitous Perſons of proſtituted Conſciences will car<g ref="char:EOLhyphen"/>ry their Votes; for they can afford to buy them at large Rates, being reſolved to re<g ref="char:EOLhyphen"/>pay themſelves tho with the ruin of the Nation.</p>
+               <p>This is not vain Surmiſe or idle Specula<g ref="char:EOLhyphen"/>tion, but the very Truth of the Caſe; and the meaneſt Countryman that hath Eyes in his Head, and will uſe them, cannot but ſee it: For did you ever know a Coachman or Groom buy his Place, unleſs he deſign'd to rob his Maſters Bin? Therefore, who<g ref="char:EOLhyphen"/>ever you put to charge in your Elections blame him not if he makes Money again of what he bought, and lays out his Vote in the Houſe not for your good, and that of the Publick, but that way as will beſt pleaſe the Miniſters of State, that ſo he himſelf may get a good Place, or Preferment, or Title of Honour by the Bargain. I ſay, tho he himſelf be a baſe Wretch for ſo do<g ref="char:EOLhyphen"/>ing, yet you cannot blame him, ſince you did not lend him your Truſt, but ſold it him; and what a Man hath purchaſed with his own Money he may lawfully ſell again.</p>
+               <p>Therefore that Man who does wilfully <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> endeavour to ruin both his Country and Himſelf, and his Poſterity, and to be as bad or worſe than the Perſon he chuſes; and if the greater part of the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to be wiſer or honeſter, it <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to him, he did as much as he <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it; and therefore for his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one elſe were concern'd with him, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> matter if he were forthwith made a Slave, and his Children perpetual Vaſſels.</p>
+               <p>The (before-mentioned) old Lord Trea<g ref="char:EOLhyphen"/>ſurer <hi>Burleigh</hi> (who is thought to have been the greateſt Stateſman that ever this Nation bred) did frequently deliver as a Maxim, or rather a Propheſy, <hi>That England can hardly be ruined, unleſs by her own Parliament;</hi> undoubtedly foreſeeing that other Oppreſ<g ref="char:EOLhyphen"/>ſions, as being wrought by Violence, might perhaps by violence be in time ſhaken off again: whereas when in a Parliamentary way we are undone by a Law that can ne<g ref="char:EOLhyphen"/>ver be revers'd but by a down-right Rebel<g ref="char:EOLhyphen"/>lion, becauſe the Parties advantaged by that Law will never agree to the repealing of it.</p>
+               <p>Such is the happy frame of your Govern<g ref="char:EOLhyphen"/>ment, ſo prudently and ſo ſtrong have your Anceſtors ſecured Property and Liberty, (reſcued by Inches out of the Hands of en<g ref="char:EOLhyphen"/>croaching Violence) that you cannot be en<g ref="char:EOLhyphen"/>ſlaved but with Chains of your own ma<g ref="char:EOLhyphen"/>king; for as you are never undone, till you are undone by Law, ſo you can never be undone by a Law, till you chuſe the undoing Legiſlators: and may not your Enemies add <hi>Scorn</hi> to their <hi>Cruelty,</hi> and pretend Juſtice for both, when they can plead they had ne<g ref="char:EOLhyphen"/>ver trampled on your Heads, had not you laid them on the Ground?</p>
+               <p>From what has been ſaid, it evidently ap<g ref="char:EOLhyphen"/>pears of what vaſt importance it is at all times (when ever his Majeſty ſhall be plea<g ref="char:EOLhyphen"/>ſed to iſſue out his Writs for a Parliament) to chuſe (as much as in us lies) a good Houſe of Commons, as we tender our Religion, Liberties, Eſtates and Poſterity: Upon our well or ill chuſing depends our well or ill being: 'Tis here as in Marriage or War, there is no room for ſecond Errors; one Act may ruin a Nation beyond retri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb n="1" facs="tcp:31877:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:31877:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:31877:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:31877:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:31877:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:31877:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:31877:12"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:31877:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:31877:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:31877:14"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:31877:14"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:31877:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:31877:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:31877:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
